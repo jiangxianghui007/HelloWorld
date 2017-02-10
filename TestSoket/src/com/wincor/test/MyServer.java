@@ -38,7 +38,7 @@ public class MyServer {
         	isr.close();
         	is.close();
         	socket.close();
-        	System.out.println("bbbb");
+        	System.out.println("ccccccc");
     	}
     	
     	  
